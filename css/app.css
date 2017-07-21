@@ -1,0 +1,32 @@
+.winner{
+	color: green;
+}
+
+html{
+	margin: 0;
+	height: 100%;
+}
+
+
+.welcome-text{
+	text-indent: center;
+	font-size: 1.1em;
+
+}
+.score-keeper{
+	max-width:500px;
+	width: 70%;
+	margin: 150px auto 0 auto;
+	font-size: 30px;
+}
+
+
+body
+{
+font-family: 'Quicksand', sans-serif;
+	background: #c2e59c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
